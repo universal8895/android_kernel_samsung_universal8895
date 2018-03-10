@@ -23,6 +23,3 @@ config BCM_GPS_SPI_DRIVER
 
 endchoice
 
-
-
-
