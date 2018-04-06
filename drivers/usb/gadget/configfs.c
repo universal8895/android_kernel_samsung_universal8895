@@ -9,6 +9,7 @@
 #include "u_f.h"
 #include "u_os_desc.h"
 #include <linux/soc/samsung/exynos-soc.h>
+#include <linux/if_ether.h>
 
 #ifdef CONFIG_USB_CONFIGFS_UEVENT
 #include <linux/platform_device.h>
